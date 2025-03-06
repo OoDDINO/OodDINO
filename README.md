@@ -1,7 +1,7 @@
 # OodDINO
 
 
-The source code of our work as well as the training details and weights will all be made public after the paper is accepted.
+Code and weights will be available after acceptance.
 
 [overview.pdf](https://github.com/user-attachments/files/19102820/overview.pdf)
 
