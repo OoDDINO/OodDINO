@@ -1,8 +1,9 @@
 # OodDINO
 
-'''
+
 The source code of our work as well as the training details and weights will all be made public after the paper is accepted.
-'''
+
+[overview.pdf](https://github.com/user-attachments/files/19102820/overview.pdf)
 
 [state-of-the-art on RoadAnomaly Benchmark](https://paperswithcode.com/sota/anomaly-detection-on-road-anomaly)
 
