@@ -4,7 +4,8 @@
 
 OodDINO is a state-of-the-art framework for anomaly detection on road anomaly datasets. It achieves top performance on both the [RoadAnomaly Benchmark](https://paperswithcode.com/sota/anomaly-detection-on-road-anomaly) and the [SegmentMeIfYouCan Benchmark](https://segmentmeifyoucan.com/leaderboard).
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ce94998f-79bd-40bf-8844-81e7b30de850)
+
 
 
 ![image](https://github.com/user-attachments/assets/b1fa8aad-f43f-45b3-9bc1-e1158dc32126)
