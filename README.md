@@ -73,3 +73,8 @@ The OodDINO framework has been evaluated on the RoadAnomaly and SegmentMeIfYouCa
 
 The baseline for this framework is provided by RPL.
 
+![image](https://github.com/user-attachments/assets/9f14c0c1-d838-4360-8ac0-f133899d6d8d)
+
+![image](https://github.com/user-attachments/assets/c64a47f8-43e6-47a6-ad35-eebca42f35e9)
+
+
