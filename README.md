@@ -65,6 +65,23 @@ you can perform inference using the following command:
    python test.py
    ```
 
+If the code fails to run, please ensure that **MMDetection** is properly installed according to its official installation guide.
+
+2. Replace the `layers` and `configs` folders in MMDetection with the provided versions from our project.
+
+3. Run the following command to perform inference:
+
+   ```
+   python inference_ra.py
+   ```
+Keep the box information in the output results for further processing. Then execute the following command to train the threshold:
+
+ ```
+python train_threshold.py
+ ```
+
+
+
 
 Acknowledgements
 This framework is based on MMDetection.
